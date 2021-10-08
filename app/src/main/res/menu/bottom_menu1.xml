@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Events"
+        android:id="@+id/events"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_calendar_today_24"/>
+    <item android:icon="@drawable/ic_baseline_book_24"
+        android:id="@+id/diary"
+        android:enabled="true"
+        android:title="Diary"/>
+    <item android:title="Goals"
+        android:id="@+id/goal"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_event_note_24"/>
+    <item android:title="Budget"
+        android:id="@+id/budNav"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_attach_money_24"/>
+</menu>

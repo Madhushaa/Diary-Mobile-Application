@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/et_passcode"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Passcode">
+
+   <com.hanks.passcodeview.PasscodeView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/passcode_view"
+       android:background="#00BCD4"
+       app:correctStateColor="#69E014"
+       app:wrongStateColor="#F43636"
+       app:numberTextColor="@color/black"/>
+
+</RelativeLayout>

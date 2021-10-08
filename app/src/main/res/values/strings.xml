@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Manager</string>
+    <string name="btn_write">+Write</string>
+    <string name="et_searchDaily">Search...</string>
+    <string name="et_addTitle">Add a title...</string>
+    <string name="et_addEntry">Type here...</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+    <string name="cb_confidential">Make Confidential</string>
+    <string name="et_passcode">Passcode</string>
+    <string name="confidential">Confidential</string>
+    <string name="add_a_image">Add a image</string>
+    <string name="dear_diary">Dear Diary...</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="username">Nirasha Jayasiri</string>
+    <string name="card_title3">Create New Goal</string>
+    <string name="card_title4">Add New Transaction</string>
+    <string name="card_title1">Create New Event</string>
+    <string name="card_title2">Add New Memory</string>
+    <string name="quick_actions">Quick actions</string>
+    <string name="todo">TODO</string>
+
+</resources>
